@@ -20,9 +20,11 @@ export default function Keyboard({ setPreviousLetters, previousLetters, word }: 
             return (
               <div
                 key={i * 100 + j + 1}
-                className={`font-mono text-xl ${letterCorrect && 'bg-green-800'} ${letterIncorrect && 'bg-gray-400'}
-
-                             bg-gray-600 rounded-md p-3 m-1 text-white cursor-pointer focus:bg-gray-500 transition-colors`}
+                className={`font-mono text-xl 
+                            ${letterCorrect && 'bg-green-800'} 
+                            ${letterIncorrect && 'bg-gray-400'}
+                            ${!previousLetters.includes(letter) && 'bg-gray-600'}
+                            rounded-md p-3 m-1 text-white cursor-pointer focus:bg-gray-500 transition-colors`}
                 onClick={() => {
                   setPreviousLetters((prev: string) => (prev += letter));
                 }}
