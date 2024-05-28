@@ -7,7 +7,7 @@ const wordlist = wordlistJson as wordType[];
 export async function GET() {
   const today = new Date();
   const start = new Date(today.getFullYear(), 0, 0);
-  const diff = today - start;
+  const diff = Number(today) - Number(start);
   const oneDay = 1000 * 60 * 60 * 24;
   const dayNumber = Math.floor(diff / oneDay); // get today's day number
 
