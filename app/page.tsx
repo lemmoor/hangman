@@ -3,9 +3,10 @@ import { useEffect, useState } from 'react';
 import Keyboard from './components/Keyboard';
 import Word from './components/Word';
 import GameOver from './components/GameOver';
+import wordType from './types/word';
 
 export default function Home() {
-  const [word, setWord] = useState('');
+  const [detailedWord, setDetailedWord] = useState({ word: '' });
   const [previousLetters, setPreviousLetters] = useState('');
   //⬛ 🟩
   const [answerSequence, setAnswerSequence] = useState('');
@@ -15,30 +16,42 @@ export default function Home() {
   useEffect(() => {
     async function fetchData() {
       const response = await fetch('/api/getword');
-      const data = await response.json();
+      const data: wordType = await response.json();
 
-      setWord(data.word);
+      setDetailedWord(data);
     }
 
     fetchData();
   }, []);
 
   useEffect(() => {
-    if (word.length + 5 - previousLetters.length <= 0) {
+    if (detailedWord.word.length + 5 - previousLetters.length <= 0) {
       setIsGameOver(true);
     }
-  }, [previousLetters, word]);
+
+    setAnswerSequence((prev) => {
+      if (previousLetters.at(-1)) {
+        if (detailedWord.word.toUpperCase().includes(previousLetters.at(-1) || 'N/A')) {
+          return prev + '🟩';
+        } else {
+          return prev + '⬛';
+        }
+      }
+      return prev;
+    });
+  }, [previousLetters, detailedWord.word]);
 
   return (
     <main className='min-h-[calc(100vh-5rem)] flex flex-col justify-between items-center px-4 py-32 md:p-32'>
       <p className='text-center'>
-        Guess today&apos;s word by selecting letters! You have {word.length + 5 - previousLetters.length} moves left.
+        Guess today&apos;s word by selecting letters! You have {detailedWord.word.length + 5 - previousLetters.length}{' '}
+        moves left.
       </p>
       {/* Generate lines and a word or whatever */}
-      <Word word={word} previousLetters={previousLetters} />
+      <Word word={detailedWord.word} previousLetters={previousLetters} />
       {/* Keyboard for input*/}
-      <Keyboard setPreviousLetters={setPreviousLetters} previousLetters={previousLetters} word={word} />
-      {isGameOver && <GameOver isWin={isWin} word={word} />}
+      <Keyboard setPreviousLetters={setPreviousLetters} previousLetters={previousLetters} word={detailedWord.word} />
+      {isGameOver && <GameOver isWin={isWin} detailedWord={detailedWord as wordType} answerSequence={answerSequence} />}
     </main>
   );
 }

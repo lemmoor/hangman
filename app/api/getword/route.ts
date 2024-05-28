@@ -1,11 +1,20 @@
 import { NextResponse } from 'next/server';
 import wordlistJson from './wordlist.json';
+import wordType from '@/app/types/word';
 
-type wordlistType = string[];
-const wordlist = wordlistJson as wordlistType;
+const wordlist = wordlistJson as wordType[];
 
 export async function GET() {
-  const randomWord = wordlist[Math.floor(Math.random() * wordlist.length)];
+  const today = new Date();
+  const start = new Date(today.getFullYear(), 0, 0);
+  const diff = today - start;
+  const oneDay = 1000 * 60 * 60 * 24;
+  const dayNumber = Math.floor(diff / oneDay); // get today's day number
 
-  return NextResponse.json({ word: randomWord });
+  // If dayNumber is greater than the length of the wordlist, wrap around
+  const index = dayNumber > wordlist.length ? dayNumber % wordlist.length : dayNumber;
+
+  const word = wordlist[index - 1];
+
+  return NextResponse.json(word);
 }

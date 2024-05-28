@@ -1,103 +1,1822 @@
 [
-  "advocate",
-  "ambivalent",
-  "animosity",
-  "assign",
-  "assist",
-  "association",
-  "automate",
-  "available",
-  "beast",
-  "behalf",
-  "beneficiary",
-  "brave",
-  "bribe",
-  "bribery",
-  "brief",
-  "broadcast",
-  "canal",
-  "category",
-  "cease",
-  "chastise",
-  "cheat",
-  "cite",
-  "clarify",
-  "collar",
-  "combine",
-  "command",
-  "commercial",
-  "communicate",
-  "complex",
-  "component",
-  "compound",
-  "concentrate",
-  "confession",
-  "confirm",
-  "congenial",
-  "congratulation",
-  "consist",
-  "constitute",
-  "contemporary",
-  "context",
-  "convenience",
-  "curse",
-  "deference",
-  "descent",
-  "destruction",
-  "dimension",
-  "diminish",
-  "docile",
-  "dormant",
-  "duration",
-  "eccentric",
-  "endangered",
-  "futile",
-  "genetic",
-  "governor",
-  "gratuitous",
-  "heritage",
-  "hypothesis",
-  "illicit",
-  "implement",
-  "implicate",
-  "inherent",
-  "inhibit",
-  "ineffable",
-  "instigate",
-  "intrinsic",
-  "irate",
-  "lucrative",
-  "lustrous",
-  "malign",
-  "munificent",
-  "nocturnal",
-  "nominal",
-  "nuance",
-  "obligation",
-  "oblique",
-  "officious",
-  "omission",
-  "paradigm",
-  "perspective",
-  "plough",
-  "postulate",
-  "precipitous",
-  "predominant",
-  "prodigious",
-  "prolific",
-  "proprietary",
-  "protocol",
-  "rebound",
-  "refine",
-  "reproach",
-  "reverberate",
-  "revere",
-  "sacrifice",
-  "salvage",
-  "slavery",
-  "squander",
-  "strive",
-  "sustain",
-  "terrestrial",
-  "vilify"
+  {
+    "word": "contemporary",
+    "phonetic": "/kənˈtɛm.p(ə).ɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contemporary-us.mp3",
+    "meanings": [
+      "Someone or something living at the same time, or of roughly the same age as another.",
+      "Something existing at the same time."
+    ]
+  },
+  {
+    "word": "haphazard",
+    "phonetic": "/ˌhæpˈhæz.əd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/haphazard-au.mp3",
+    "meanings": ["Random; chaotic; incomplete; not thorough, constant, or consistent."]
+  },
+  {
+    "word": "transcript",
+    "phonetic": "/ˈtɹænskɹɪpt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transcript-ca.mp3",
+    "meanings": [
+      "Something which has been transcribed; a writing or composition consisting of the same words as the original; a written copy.",
+      "A copy of any kind; an imitation.",
+      "A written version of what was said orally",
+      "A sequence of RNA produced by transcription",
+      "An inventory of the courses taken and grades earned of a student alleged throughout a course."
+    ]
+  },
+  {
+    "word": "curse",
+    "phonetic": "/kɜːs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/curse-us.mp3",
+    "meanings": [
+      "A supernatural detriment or hindrance; a bane.",
+      "A prayer or imprecation that harm may befall someone.",
+      "The cause of great harm, evil, or misfortune; that which brings evil or severe affliction; torment.",
+      "A vulgar epithet.",
+      "(usually with \"the\") A woman's menses."
+    ]
+  },
+  {
+    "word": "docile",
+    "phonetic": "/ˈdəʊ.saɪl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/docile-au.mp3",
+    "meanings": [
+      "Ready to accept instruction or direction; obedient; subservient.",
+      "Yielding to control or supervision, direction, or management."
+    ]
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wave-us.mp3",
+    "meanings": [
+      "To move back and forth repeatedly and somewhat loosely.",
+      "To move one’s hand back and forth (generally above the shoulders) in greeting or departure.",
+      "(metonymic) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
+      "To have an undulating or wavy form.",
+      "To raise into inequalities of surface; to give an undulating form or surface to.",
+      "To produce waves to the hair.",
+      "To swing and miss at a pitch.",
+      "To cause to move back and forth repeatedly.",
+      "(metonymic) To signal (someone or something) with a waving movement.",
+      "To fluctuate; to waver; to be in an unsettled state.",
+      "To move like a wave, or by floating; to waft."
+    ]
+  },
+  {
+    "word": "heritage",
+    "phonetic": "/ˈhɛɹɪtɪd͡ʒ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/heritage-us.mp3",
+    "meanings": [
+      "An inheritance; property that may be inherited.",
+      "A tradition; a practice or set of values that is passed down from preceding generations through families or through institutional memory.",
+      "A birthright; the status acquired by birth, especially of but not exclusive to the firstborn.",
+      "Having a certain background, such as growing up with a second language."
+    ]
+  },
+  {
+    "word": "beast",
+    "phonetic": "/biːst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beast-us.mp3",
+    "meanings": [
+      "Any animal other than a human; usually only applied to land vertebrates, especially large or dangerous four-footed ones.",
+      "(more specific) A domestic animal, especially a bovine farm animal.",
+      "A person who behaves in a violent, antisocial or uncivilized manner.",
+      "Anything regarded as larger or more powerful than one of its normal size or strength.",
+      "Someone who is particularly impressive, especially athletically or physically.",
+      "Something unpleasant and difficult.",
+      "A thing or matter, especially a difficult or unruly one."
+    ]
+  },
+  {
+    "word": "consist",
+    "phonetic": "/kənˈsɪst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consist-1.mp3",
+    "meanings": [
+      "To be.",
+      "To exist.",
+      "(with in) To be comprised or contained.",
+      "(with of) To be composed, formed, or made up (of)."
+    ]
+  },
+  {
+    "word": "stretch",
+    "phonetic": "/stɹɛtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stretch-us.mp3",
+    "meanings": [
+      "An act of stretching.",
+      "The ability to lengthen when pulled.",
+      "A course of thought which diverts from straightforward logic, or requires extraordinary belief or exaggeration.",
+      "A segment of a journey or route.",
+      "A segment or length of material.",
+      "A quick pitching delivery used when runners are on base where the pitcher slides his leg instead of lifting it.",
+      "A long reach in the direction of the ball with a foot remaining on the base by a first baseman in order to catch the ball sooner.",
+      "Term of address for a tall person.",
+      "The homestretch, the final straight section of the track leading to the finish.",
+      "A length of time.",
+      "A stretch limousine."
+    ]
+  },
+  {
+    "word": "ambivalent",
+    "phonetic": "/æmˈbɪv.ə.lənt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambivalent-au.mp3",
+    "meanings": [
+      "Simultaneously experiencing or expressing opposing or contradictory feelings, beliefs, or motivations.",
+      "Alternately having one opinion or feeling, and then the opposite."
+    ]
+  },
+  {
+    "word": "quiz",
+    "phonetic": "/kwɪz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiz-us.mp3",
+    "meanings": [
+      "An odd, puzzling or absurd person or thing.",
+      "A competition in the answering of questions.",
+      "A school examination of less importance, or of greater brevity, than others given in the same course."
+    ]
+  },
+  {
+    "word": "confession",
+    "phonetic": "/kənˈfɛʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confession-us.mp3",
+    "meanings": [
+      "The open admittance of having done something (especially something bad).",
+      "A formal document providing such an admission.",
+      "The disclosure of one's sins to a priest for absolution. In the Roman Catholic Church, it is now termed the sacrament of reconciliation.",
+      "Acknowledgment of belief; profession of one's faith.",
+      "A formula in which the articles of faith are comprised; a creed to be assented to or signed, as a preliminary to admission to membership of a church; a confession of faith."
+    ]
+  },
+  {
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sustain-us.mp3",
+    "meanings": ["A mechanism which can be used to hold a note, as the right pedal on a piano."]
+  },
+  {
+    "word": "gizmo",
+    "phonetic": "/ˈɡɪzmoʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gizmo-us.mp3",
+    "meanings": ["Something, generally a device, for which one does not know the proper term."]
+  },
+  {
+    "word": "kitsch",
+    "phonetic": "/kɪtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kitsch-au.mp3",
+    "meanings": [
+      "Art, decorative objects and other forms of representation of questionable artistic or aesthetic value; a representation that is excessively sentimental, overdone, or vulgar."
+    ]
+  },
+  {
+    "word": "klutz",
+    "phonetic": "/klʌts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/klutz-us.mp3",
+    "meanings": ["A clumsy or stupid person."]
+  },
+  {
+    "word": "jovial",
+    "phonetic": "/ˈdʒəʊ.vɪ.əl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jovial-au.mp3",
+    "meanings": [
+      "Cheerful and good-humoured; jolly, merry.",
+      "Pertaining to the astrological influence of the planet Jupiter; having the characteristics of a person under such influence (see sense 1)."
+    ]
+  },
+  {
+    "word": "nocturnal",
+    "phonetic": "/nɒkˈtɜː(ɹ)nəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nocturnal-us.mp3",
+    "meanings": [
+      "A person or creature that is active at night.",
+      "A device for telling the time at night, rather like a sundial but read according to the stars."
+    ]
+  },
+  {
+    "word": "axiom",
+    "phonetic": "/ˈaks.ɪ.əm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/axiom-au.mp3",
+    "meanings": [
+      "A seemingly self-evident or necessary truth which is based on assumption; a principle or proposition which cannot actually be proved or disproved.",
+      "(proof theory) A fundamental assumption that serves as a basis for deduction of theorems; a postulate (sometimes distinguished from postulates as being universally applicable, whereas postulates are particular to a certain science or context).",
+      "An established principle in some artistic practice or science that is universally received."
+    ]
+  },
+  {
+    "word": "rhubarb",
+    "phonetic": "/ˈɹuːbɑːb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rhubarb-au.mp3",
+    "meanings": [
+      "Any plant of the genus Rheum, especially Rheum rhabarbarum, having large leaves and long green or reddish acidic leafstalks that are edible, in particular when cooked (although the leaves are mildly poisonous).",
+      "The leafstalks of common rhubarb or garden rhubarb (usually known as Rheum × hybridum), which are long, fleshy, often pale red, and with a tart taste, used as a food ingredient; they are frequently stewed with sugar and made into jam or used in crumbles, pies, etc.",
+      "The dried rhizome and roots of Rheum palmatum (Chinese rhubarb) or Rheum officinale (Tibetan rhubarb), from China, used as a laxative and purgative.",
+      "A Royal Air Force World War II code name for operations by aircraft (fighters and fighter-bombers) involving low-level flight to seek opportunistic targets."
+    ]
+  },
+  {
+    "word": "perspective",
+    "phonetic": "/pɚˈspɛktɪv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perspective-us.mp3",
+    "meanings": [
+      "A view, vista or outlook.",
+      "The appearance of depth in objects, especially as perceived using binocular vision.",
+      "The technique of representing three-dimensional objects on a two-dimensional surface.",
+      "An artwork that represents three-dimensional objects in this way.",
+      "The choice of a single angle or point of view from which to sense, categorize, measure or codify experience.",
+      "The ability to consider things in such relative perspective.",
+      "A perspective glass.",
+      "A sound recording technique to adjust and integrate sound sources seemingly naturally."
+    ]
+  },
+  {
+    "word": "precipitous",
+    "phonetic": "/pɹɪˈsɪpɪtəs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/precipitous-us.mp3",
+    "meanings": ["Steep, like a precipice", "Headlong", "Hasty; rash; quick; sudden"]
+  },
+  {
+    "word": "spritz",
+    "phonetic": "/spɹɪts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spritz-us.mp3",
+    "meanings": ["A sprinkling or spray of liquid; a small amount of liquid."]
+  },
+  {
+    "word": "boggle",
+    "phonetic": "/ˈbɒɡ.əl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boggle-au.mp3",
+    "meanings": ["A scruple or objection.", "A bungle; a botched situation."]
+  },
+  {
+    "word": "staff",
+    "phonetic": "/ˈstæf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/staff-1-us.mp3",
+    "meanings": [
+      "(plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.",
+      "(plural staves) A series of horizontal lines on which musical notes are written; a stave.",
+      "(plural staff or staffs) The employees of a business.",
+      "A mixture of plaster and fibre used as a temporary exterior wall covering.W",
+      "A pole, stick, or wand borne as an ensign of authority; a badge of office.",
+      "A pole upon which a flag is supported and displayed.",
+      "The rung of a ladder.",
+      "A series of verses so disposed that, when it is concluded, the same order begins again; a stanza; a stave.",
+      "An arbor, as of a wheel or a pinion of a watch.",
+      "The grooved director for the gorget, or knife, used in cutting for stone in the bladder.",
+      "An establishment of officers in various departments attached to an army, to a section of an army, or to the commander of an army. The general's staff consists of those officers about his person who are employed in carrying his commands into execution."
+    ]
+  },
+  {
+    "word": "broadcast",
+    "phonetic": "/ˈbɹɑdkæst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/broadcast-us.mp3",
+    "meanings": [
+      "A transmission of a radio or television programme intended to be received by anyone with a receiver.",
+      "A programme (bulletin, documentary, show, etc.) so transmitted.",
+      "The act of scattering seed; a crop grown from such seed."
+    ]
+  },
+  {
+    "word": "whomever",
+    "phonetic": "/humˈɛvɚ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whomever-us.mp3",
+    "meanings": ["Whatever person or persons (as object of verb or preposition)."]
+  },
+  {
+    "word": "jaundice",
+    "phonetic": "/ˈdʒɔːndɪs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jaundice-uk.mp3",
+    "meanings": [
+      "A morbid condition, characterized by yellowness of the eyes, skin, and urine.",
+      "A feeling of bitterness, resentment or jealousy."
+    ]
+  },
+  {
+    "word": "mnemonic",
+    "phonetic": "/nəˈmɒnɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mnemonic-us.mp3",
+    "meanings": [
+      "Anything (especially something in verbal form) used to help remember something.",
+      "The textual, human-readable form of an assembly language instruction, not including operands."
+    ]
+  },
+  {
+    "word": "absurd",
+    "phonetic": "/æbˈzɝd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absurd-us.mp3",
+    "meanings": [
+      "An absurdity.",
+      "(often preceded by the) The opposition between the human search for meaning in life and the inability to find any; the state or condition in which man exists in an irrational universe and his life has no meaning outside of his existence."
+    ]
+  },
+  {
+    "word": "canal",
+    "phonetic": "/kəˈnɛl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/canal-uk.mp3",
+    "meanings": [
+      "An artificial waterway or artificially improved river used for travel, shipping, or irrigation.",
+      "A tubular channel within the body.",
+      "One of the faint, hazy markings resembling straight lines on early telescopic images of the surface of Mars."
+    ]
+  },
+  {
+    "word": "collar",
+    "phonetic": "/ˈkɒl.ə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/collar-us.mp3",
+    "meanings": [
+      "Anything that encircles the neck.",
+      "A piece of meat from the neck of an animal.",
+      "Any encircling device or structure.",
+      "(in compounds) Of or pertaining to a certain category of professions as symbolized by typical clothing.",
+      "The neck or line of junction between the root of a plant and its stem.",
+      "A ringlike part of a mollusk in connection with the esophagus.",
+      "An eye formed in the bight or bend of a shroud or stay to go over the masthead; also, a rope to which certain parts of rigging, as dead-eyes, are secured.",
+      "An arrest.",
+      "A trading strategy using options such that there is both an upper limit on profit and a lower limit on loss, constructed through taking equal but opposite positions in a put and a call with different strike prices."
+    ]
+  },
+  {
+    "word": "gnarly",
+    "phonetic": "/ˈnɑːli/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gnarly-au.mp3",
+    "meanings": [
+      "Having or characterized by gnarls; gnarled.",
+      "Excellent; attractive.",
+      "Dangerous; difficult.",
+      "Unpleasant, awful, ugly."
+    ]
+  },
+  {
+    "word": "malign",
+    "phonetic": "/məˈlaɪn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malign-us.mp3",
+    "meanings": [
+      "To make defamatory statements about; to slander or traduce.",
+      "To treat with malice; to show hatred toward; to abuse; to wrong."
+    ]
+  },
+  {
+    "word": "zephyr",
+    "phonetic": "/zɛfə(ɹ)/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zephyr-us.mp3",
+    "meanings": [
+      "A light wind from the west.",
+      "Any light refreshing wind; a gentle breeze.",
+      "Anything of fine, soft, or light quality, especially fabric."
+    ]
+  },
+  {
+    "word": "prolific",
+    "phonetic": "/ˌpɹoʊˈlɪf.ɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prolific-us.mp3",
+    "meanings": [
+      "Fertile; producing offspring or fruit in abundance — applied to plants producing fruit, animals producing young, etc.",
+      "Similarly producing results or performing deeds in abundance",
+      "Of a flower: from which another flower is produced."
+    ]
+  },
+  {
+    "word": "buffalo",
+    "phonetic": "/ˈbʌf.əl.əʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buffalo-uk.mp3",
+    "meanings": [
+      "Any of the Old World mammals of the family Bovidae, such as the Cape buffalo, Syncerus caffer, or the water buffalo Bubalus bubalis.",
+      "A related North American animal, the American bison, Bison bison.",
+      "A buffalo robe.",
+      "The buffalo fish."
+    ]
+  },
+  {
+    "word": "brief",
+    "phonetic": "/bɹiːf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brief-us.mp3",
+    "meanings": [
+      "A writ summoning one to answer to any action.",
+      "An answer to any action.",
+      "A memorandum of points of fact or of law for use in conducting a case.",
+      "(by extension) A position of interest or advocacy.",
+      "An attorney's legal argument in written form for submission to a court.",
+      "(English law) The material relevant to a case, delivered by a solicitor to the barrister who tries the case.",
+      "A short news story or report.",
+      "(usually in the plural) undershorts briefs.",
+      "A summary, précis or epitome; an abridgement or abstract.",
+      "A letter patent, from proper authority, authorizing a collection or charitable contribution of money in churches, for any public or private purpose.",
+      "(slang) A ticket of any type."
+    ]
+  },
+  {
+    "word": "oblique",
+    "phonetic": "/əˈbliːk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oblique-uk.mp3",
+    "meanings": ["An oblique line.", "(grammar) The oblique case."]
+  },
+  {
+    "word": "prodigious",
+    "phonetic": "/pɹəˈdɪd͡ʒəs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prodigious-us.mp3",
+    "meanings": [
+      "Very big in size or quantity; gigantic; colossal; huge.",
+      "Extraordinarily exciting or amazing.",
+      "Ominous, portentous.",
+      "Monstrous; freakish."
+    ]
+  },
+  {
+    "word": "sacrifice",
+    "phonetic": "/ˈsækɹɪfaɪs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sacrifice-us.mp3",
+    "meanings": [
+      "The offering of anything to a god; a consecratory rite.",
+      "The destruction or surrender of anything for the sake of something else; the devotion of something desirable to something higher, or to a calling deemed more pressing.",
+      "Something sacrificed.",
+      "A loss of profit.",
+      "A sale at a price less than the cost or the actual value."
+    ]
+  },
+  {
+    "word": "galvanize",
+    "phonetic": "/ˈɡælvənaɪ̯z/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/galvanize-us.mp3",
+    "meanings": [
+      "To coat with a thin layer of metal by electrochemical means.",
+      "To coat with rust-resistant zinc.",
+      "To shock or stimulate into sudden activity, as if by electric shock.",
+      "To electrify.",
+      "To switch sides between Union and Confederate in the American Civil War."
+    ]
+  },
+  {
+    "word": "combine",
+    "phonetic": "/kəmˈbaɪn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/combine-uk.mp3",
+    "meanings": ["A combine harvester", "A combination"]
+  },
+  {
+    "word": "kayak",
+    "phonetic": "/ˈkaɪˌæk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kayak-us.mp3",
+    "meanings": [
+      "A type of small boat, covered over by a surface deck, powered by the occupant or occupants using a double-bladed paddle in a sitting position, from a hole in the surface deck"
+    ]
+  },
+  {
+    "word": "galaxy",
+    "phonetic": "/ˈɡaləksi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/galaxy-us.mp3",
+    "meanings": [
+      "The Milky Way; the apparent band of concentrated stars which appears in the night sky over earth.",
+      "Any of the collections of many millions or billions of stars, galactic dust, black holes, etc. existing as independent and coherent systems, of which there are billions in the known universe.",
+      "Any print or pattern reminiscent of a galaxy, generally consisting of blending, semiopaque patches of vibrant color on a dark background."
+    ]
+  },
+  {
+    "word": "rhythm",
+    "phonetic": "/ˈɹɪ.ð(ə)m/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rhythm-us.mp3",
+    "meanings": [
+      "The variation of strong and weak elements (such as duration, accent) of sounds, notably in speech or music, over time; a beat or meter.",
+      "A specifically defined pattern of such variation.",
+      "A flow, repetition or regularity.",
+      "The tempo or speed of a beat, song or repetitive event.",
+      "The musical instruments which provide rhythm (mainly; not or less melody) in a musical ensemble.",
+      "A regular quantitative change in a variable (notably natural) process.",
+      "Controlled repetition of a phrase, incident or other element as a stylistic figure in literature and other narrative arts; the effect it creates."
+    ]
+  },
+  {
+    "word": "paradigm",
+    "phonetic": "/ˈpæ.ɹə.daɪm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-au.mp3",
+    "meanings": [
+      "A pattern, a way of doing something, especially a pattern of thought, a system of beliefs, a conceptual framework.",
+      "An example serving as the model for such a pattern.",
+      "A set of all forms which contain a common element, especially the set of all inflectional forms of a word or a particular grammatical category."
+    ]
+  },
+  {
+    "word": "constitute",
+    "phonetic": "/ˈkɒnstɪtjuːt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constitute-uk.mp3",
+    "meanings": ["An established law."]
+  },
+  {
+    "word": "zilch",
+    "phonetic": "/zɪltʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zilch-au.mp3",
+    "meanings": ["A nobody: a person who is worthless in importance or character.", "Nothing, zero."]
+  },
+  {
+    "word": "strength",
+    "phonetic": "/stɹɛŋkθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strength-us.mp3",
+    "meanings": [
+      "The quality or degree of being strong.",
+      "The intensity of a force or power; potency.",
+      "The strongest part of something; that on which confidence or reliance is based.",
+      "A positive attribute.",
+      "An armed force, a body of troops.",
+      "A strong place; a stronghold."
+    ]
+  },
+  {
+    "word": "implement",
+    "phonetic": "/ˈɪmpləmənt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/implement-1-us.mp3",
+    "meanings": ["A tool or instrument for working with."]
+  },
+  {
+    "word": "waxy",
+    "phonetic": "/ˈwæksi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waxy-uk.mp3",
+    "meanings": ["Resembling wax in texture or appearance."]
+  },
+  {
+    "word": "pshaw",
+    "phonetic": "/pʃɔː/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pshaw-us.mp3",
+    "meanings": ["To express disgust or contempt."]
+  },
+  {
+    "word": "ineffable",
+    "phonetic": "/ɪˈnɛf.ə.bəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ineffable-au.mp3",
+    "meanings": ["Beyond expression in words; unspeakable.", "Forbidden to be uttered; taboo."]
+  },
+  {
+    "word": "icebox",
+    "phonetic": "/ˈʌɪsbɒks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/icebox-au.mp3",
+    "meanings": [
+      "A box or compartment containing ice.",
+      "A compartment in a refrigerator that is colder than the rest of the refrigerator and is used as a freezer.",
+      "A refrigerator.",
+      "A prison.",
+      "A morgue."
+    ]
+  },
+  {
+    "word": "governor",
+    "phonetic": "/ˈɡʌv(ə)nə(ɹ)/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/governor-us.mp3",
+    "meanings": [
+      "The chief executive officer of a first-level division of a country.",
+      "A device which regulates or controls some action of a machine through automatic feedback.",
+      "A member of a decision-making for an organization or entity (including some public agencies) similar to or equivalent to a board of directors (used especially for banks); a member of the board of governors.",
+      "Father.",
+      "Boss, employer, similar to gaffer.",
+      "Term of address to a man; guv'nor.",
+      "(grammar) A constituent of a phrase that governs another.",
+      "One who has the care or guardianship of a young man; a tutor; a guardian.",
+      "A pilot; a steersman."
+    ]
+  },
+  {
+    "word": "bribe",
+    "phonetic": "/bɹaɪb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bribe-us.mp3",
+    "meanings": [
+      "Something (usually money) given in exchange for influence or as an inducement to dishonesty.",
+      "That which seduces; seduction; allurement."
+    ]
+  },
+  {
+    "word": "twelfth",
+    "phonetic": "/twɛlfθ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/twelfth-us.mp3",
+    "meanings": ["One of twelve equal parts of a whole.", "An interval equal to an octave plus a fifth"]
+  },
+  {
+    "word": "descent",
+    "phonetic": "/dɪˈsɛnt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/descent-us.mp3",
+    "meanings": [
+      "An instance of descending; act of coming down.",
+      "A way down.",
+      "A sloping passage or incline.",
+      "Lineage or hereditary derivation.",
+      "A drop to a lower status or condition; decline.",
+      "A falling upon or invasion.",
+      "A particular extension of the idea of gluing. See Descent (mathematics)."
+    ]
+  },
+  {
+    "word": "joyful",
+    "phonetic": "/ˈdʒɔɪfəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/joyful-us.mp3",
+    "meanings": ["Feeling or causing joy."]
+  },
+  {
+    "word": "azure",
+    "phonetic": "/æˈzjʊə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/azure-us.mp3",
+    "meanings": [
+      "A blue colour on a coat of arms, represented in engraving by horizontal parallel lines.",
+      "The clear blue colour of the sky; also, a pigment or dye of this colour.",
+      "The unclouded sky; the blue vault above.",
+      "Any of various widely distributed lycaenid butterflies of the genus Celastrina.",
+      "Any of various Australasian lycaenid butterflies of the genus Ogyris.",
+      "Lapis lazuli."
+    ]
+  },
+  {
+    "word": "awkward",
+    "phonetic": "/ˈɑkwɚd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/awkward-au.mp3",
+    "meanings": ["Someone or something that is awkward."]
+  },
+  {
+    "word": "bikini",
+    "phonetic": "/bɪˈkiːni/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bikini-us.mp3",
+    "meanings": [
+      "A brief two-piece bathing suit worn by women, especially one that exposes the midriff and navel.",
+      "A brief bathing suit worn by men."
+    ]
+  },
+  {
+    "word": "vixen",
+    "phonetic": "/ˈvɪk.sən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vixen-us.mp3",
+    "meanings": ["A female fox.", "A malicious, quarrelsome or temperamental woman.", "A racy or salacious woman."]
+  },
+  {
+    "word": "confirm",
+    "phonetic": "/kənˈfɜːm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confirm-us.mp3",
+    "meanings": [
+      "To strengthen; to make firm or resolute.",
+      "To administer the sacrament of confirmation on (someone).",
+      "To assure the accuracy of previous statements."
+    ]
+  },
+  {
+    "word": "ivory",
+    "phonetic": "/ˈaɪvəɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ivory-us.mp3",
+    "meanings": [
+      "The hard white form of dentin which forms the tusks of elephants, walruses and other animals.",
+      "A creamy white color, the color of ivory.",
+      "Something made from or resembling ivory.",
+      "(collective, singular or in plural) The teeth.",
+      "(collective, singular or in plural) The keys of a piano.",
+      "A white person."
+    ]
+  },
+  {
+    "word": "scratch",
+    "phonetic": "/skɹætʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/scratch-us.mp3",
+    "meanings": [
+      "A disruption, mark or shallow cut on a surface made by scratching.",
+      "An act of scratching the skin to alleviate an itch or irritation.",
+      "A starting line (originally and simply, a line scratched in the ground), as in boxing.",
+      "A technical error of touching or surpassing the starting mark prior to the official start signal in the sporting events of long jump, discus, hammer throw, shot put, and similar. Originally the starting mark was a scratch on the ground but is now a board or precisely indicated mark.",
+      "The last riders to depart in a handicap race.",
+      "An aberration.",
+      "A horse withdrawn from a race prior to the start.",
+      "Money.",
+      "A feed, usually a mixture of a few common grains, given to chickens.",
+      "(in the plural) Minute, but tender and troublesome, excoriations, covered with scabs, upon the heels of horses which have been used where it is very wet or muddy.",
+      "A scratch wig.",
+      "A genre of Virgin Islander music, better known as fungi."
+    ]
+  },
+  {
+    "word": "gossip",
+    "phonetic": "/ˈɡɒs.ɪp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gossip-us.mp3",
+    "meanings": [
+      "Someone who likes to talk about other people's private or personal business.",
+      "Idle talk about someone’s private or personal matters, especially someone not present.",
+      "Idle conversation in general.",
+      "A genre in contemporary media, usually focused on the personal affairs of celebrities.",
+      "A sponsor; a godfather or godmother; the godparent of one's child.",
+      "A familiar acquaintance.",
+      "Title used with the name of one's child's godparent or of a friend."
+    ]
+  },
+  {
+    "word": "fishhook",
+    "phonetic": "/ˈfɪʃˌhʊk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fishhook-us.mp3",
+    "meanings": ["A barbed hook, usually metal, used for fishing", "A jack (the playing card)"]
+  },
+  {
+    "word": "glyph",
+    "phonetic": "/ɡlɪf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/glyph-au.mp3",
+    "meanings": [
+      "A figure carved in relief or incised, especially representing a sound, word, or idea.",
+      "Any non-verbal symbol that imparts information.",
+      "A visual representation of a letter, character, or symbol, in a specific font and style.",
+      "A vertical groove."
+    ]
+  },
+  {
+    "word": "assist",
+    "phonetic": "/əˈsɪst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assist-us.mp3",
+    "meanings": ["A helpful action or an act of giving.", "The act of helping another player score points or goals"]
+  },
+  {
+    "word": "cycle",
+    "phonetic": "/ˈsaɪkəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cycle-us.mp3",
+    "meanings": [
+      "An interval of space or time in which one set of events or phenomena is completed.",
+      "A complete rotation of anything.",
+      "A process that returns to its beginning and then repeats itself in the same sequence.",
+      "The members of the sequence formed by such a process.",
+      "In musical set theory, an interval cycle is the set of pitch classes resulting from repeatedly applying the same interval class to the starting pitch class.",
+      "A series of poems, songs or other works of art.",
+      "A programme on a washing machine, dishwasher, or other such device.",
+      "A pedal-powered vehicle, such as a unicycle, bicycle, or tricycle, or a motorized vehicle that has either two or three wheels.",
+      "A single, a double, a triple, and a home run hit by the same player in the same game.",
+      "A closed walk or path, with or without repeated vertices allowed.",
+      "(algebraic topology) A chain whose boundary is zero.",
+      "An imaginary circle or orbit in the heavens; one of the celestial spheres.",
+      "An age; a long period of time.",
+      "An orderly list for a given time; a calendar.",
+      "One entire round in a circle or a spire.",
+      "A discharge of a taser."
+    ]
+  },
+  {
+    "word": "oxidize",
+    "phonetic": "/ˈɒksɪdaɪz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oxidize-uk.mp3",
+    "meanings": [
+      "To combine with oxygen or otherwise make an oxide.",
+      "To increase the valence (or the positive charge) of an element by removing electrons.",
+      "To coat something with an oxide.",
+      "To become oxidized."
+    ]
+  },
+  {
+    "word": "gratuitous",
+    "phonetic": "/ɡɹəˈtjuː.ɪt.əs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gratuitous-us.mp3",
+    "meanings": ["Given freely; unearned.", "Unjustified or unnecessary; not called for by the circumstances"]
+  },
+  {
+    "word": "squawk",
+    "phonetic": "/skwɔːk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/squawk-us.mp3",
+    "meanings": [
+      "A shrill noise, especially made by a voice or bird; a yell, scream, or call.",
+      "A four-digit transponder code used by aircraft for identification or transmission of emergency signals.",
+      "An issue or complaint related to aircraft maintenance.",
+      "The American night heron.",
+      "A warning message indicating a possible error."
+    ]
+  },
+  {
+    "word": "swivel",
+    "phonetic": "/ˈswɪvəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/swivel-us.mp3",
+    "meanings": [
+      "A piece, as a ring or hook, attached to another piece by a pin, in such a manner as to permit rotation about the pin as an axis.",
+      "A small piece of ordnance, turning on a point or swivel; called also swivel gun.",
+      "Strength of mind or character that enables one to overcome adversity; confidence; force of will.",
+      "A rotating of the hips."
+    ]
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʊnɪ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/funny-uk.mp3",
+    "meanings": ["A joke.", "A comic strip."]
+  },
+  {
+    "word": "cease",
+    "phonetic": "/siːs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cease-us.mp3",
+    "meanings": ["Cessation; extinction (see without cease)."]
+  },
+  {
+    "word": "command",
+    "phonetic": "/kəˈmɑːnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/command-us.mp3",
+    "meanings": [
+      "An order to do something.",
+      "The right or authority to order, control or dispose of; the right to be obeyed or to compel obedience.",
+      "Power of control, direction or disposal; mastery.",
+      "A position of chief authority; a position involving the right or power to order or control.",
+      "The act of commanding; exercise or authority of influence.",
+      "A body or troops, or any naval or military force, under the control of a particular officer; by extension, any object or body in someone's charge.",
+      "Dominating situation; range or control or oversight; extent of view or outlook.",
+      "A directive to a computer program acting as an interpreter of some kind, in order to perform a specific task.",
+      "The degree of control a pitcher has over his pitches.",
+      "A command performance."
+    ]
+  },
+  {
+    "word": "vilify",
+    "phonetic": "/ˈvɪl.ɪ.faɪ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vilify-au.mp3",
+    "meanings": [
+      "To say defamatory things about someone or something; to speak ill of.",
+      "To belittle through speech; to put down."
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "phonetic": "/-əsəs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hypothesis-us.mp3",
+    "meanings": [
+      "Used loosely, a tentative conjecture explaining an observation, phenomenon or scientific problem that can be tested by further observation, investigation and/or experimentation. As a scientific term of art, see the attached quotation. Compare to theory, and quotation given there.",
+      "(general) An assumption taken to be true for the purpose of argument or investigation.",
+      "(grammar) The antecedent of a conditional statement."
+    ]
+  },
+  {
+    "word": "zombie",
+    "phonetic": "/ˈzɒmbi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zombie-au.mp3",
+    "meanings": [
+      "A snake god or fetish in religions of West Africa and elsewhere.",
+      "(voodoo, superstition) A person, usually undead, animated by unnatural forces (such as magic), with no soul or will of his/her own.",
+      "A deceased person who becomes reanimate to attack the living.",
+      "An apathetic person.",
+      "A human being in a state of extreme mental exhaustion.",
+      "An information worker who has signed a nondisclosure agreement.",
+      "A process or task which has terminated but has not been removed from the list of processes, typically because it has an unresponsive parent process.",
+      "A computer affected by malware which causes it to do whatever the attacker wants it to do without the user's knowledge.",
+      "A cocktail of rum and fruit juices.",
+      "A conscripted member of the Canadian military during World War II who was assigned to home defence rather than to combat in Europe.",
+      "A hypothetical being that is indistinguishable from a normal human being except in that it lacks conscious experience, qualia, or sentience."
+    ]
+  },
+  {
+    "word": "nowadays",
+    "phonetic": "/ˈnaʊ.ə.deɪz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nowadays-us.mp3",
+    "meanings": ["At the present time; in the current era."]
+  },
+  {
+    "word": "squander",
+    "phonetic": "/ˈskwɒnd.ə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/squander-uk.mp3",
+    "meanings": [
+      "To waste, lavish, splurge; to spend lavishly or profusely; to dissipate.",
+      "To scatter; to disperse.",
+      "To wander at random; to scatter."
+    ]
+  },
+  {
+    "word": "nuance",
+    "phonetic": "/ˈnjuː.ɑːns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nuance-au.mp3",
+    "meanings": ["A minor distinction.", "Subtlety or fine detail."]
+  },
+  {
+    "word": "jinx",
+    "phonetic": "/dʒɪŋks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jinx-au.mp3",
+    "meanings": ["A hex; an evil spell.", "A person or thing supposed to bring bad luck."]
+  },
+  {
+    "word": "buckaroo",
+    "phonetic": "/ˌbʌkəˈɹu/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buckaroo-au.mp3",
+    "meanings": [
+      "A cowboy; specifically, a working cowboy who generally does not partake in rodeos.",
+      "One who sports a distinctive buckaroo style of cowboy clothing, boots, and heritage.",
+      "A style of cowboy boot with a high and uniquely tapered heel.",
+      "A reckless, headstrong person.",
+      "A dollar; a buck."
+    ]
+  },
+  {
+    "word": "automate",
+    "phonetic": "/ˈɔtoʊˌmeɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/automate-us.mp3",
+    "meanings": ["To replace or enhance human labor with machines."]
+  },
+  {
+    "word": "sphinx",
+    "phonetic": "/sfɪŋks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sphinx-us.mp3",
+    "meanings": [
+      "A creature with the head of a person and the body of an animal (commonly a lion).",
+      "A person who keeps his/her thoughts and intentions secret; an enigmatic person.",
+      "A mandrill, Mandrillus sphinx, formerly classified a baboon, and called sphinx baboon.",
+      "A sphinx moth.",
+      "A sphincter."
+    ]
+  },
+  {
+    "word": "wizard",
+    "phonetic": "/ˈwɪ.zəd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wizard-us.mp3",
+    "meanings": [
+      "Someone, usually male, who uses (or has skill with) magic, mystic items, and magical and mystical practices.",
+      "One who is especially skilled or unusually talented in a particular field.",
+      "A computer program or script used to simplify complex operations, often for an inexperienced user.",
+      "One of the administrators of a multi-user dungeon.",
+      "A wise man; a sage.",
+      "An adult virgin over the age of 30."
+    ]
+  },
+  {
+    "word": "deference",
+    "phonetic": "/ˈdɛfəɹəns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deference-us.mp3",
+    "meanings": ["Great respect.", "The willingness to carry out the wishes of others."]
+  },
+  {
+    "word": "buzzard",
+    "phonetic": "/ˈbʌzəɹd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buzzard-au.mp3",
+    "meanings": [
+      "Any of several Old World birds of prey of the genus Buteo with broad wings and a broad tail.",
+      "Any scavenging bird such as the American black vulture (Coragyps atratus) or the turkey vulture (Cathartes aura).",
+      "(often preceded by \"old\", the \"old buzzard\") In North America, a curmudgeonly or cantankerous man; an old person; a mean, greedy person.",
+      "A blockhead; a dunce."
+    ]
+  },
+  {
+    "word": "fjord",
+    "phonetic": "/fiˈɔːd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fjord-au.mp3",
+    "meanings": ["A long, narrow, deep inlet between cliffs."]
+  },
+  {
+    "word": "compound",
+    "phonetic": "/ˈkɒmpaʊnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compound-1-uk.mp3",
+    "meanings": [
+      "An enclosure within which workers, prisoners, or soldiers are confined",
+      "A group of buildings situated close together, e.g. for a school or block of offices"
+    ]
+  },
+  {
+    "word": "kazoo",
+    "phonetic": "/kə.ˈzuː/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kazoo-us.mp3",
+    "meanings": [
+      "A simple musical instrument (membranophone) consisting of a pipe with a hole in it, producing a buzzing sound when the player hums into it."
+    ]
+  },
+  {
+    "word": "dirndl",
+    "phonetic": "[ˈdɪəndəɫ]",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dirndl-uk.mp3",
+    "meanings": ["A traditional Alpine women's dress having a tight bodice and full skirt"]
+  },
+  {
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diminish-us.mp3",
+    "meanings": [
+      "To make smaller.",
+      "To become smaller.",
+      "To lessen the authority or dignity of; to put down; to degrade; to abase; to weaken; to nerf (in gaming).",
+      "To taper.",
+      "To disappear gradually.",
+      "To take away; to subtract."
+    ]
+  },
+  {
+    "word": "larynx",
+    "phonetic": "/ˈlæɹɪŋks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/larynx-uk.mp3",
+    "meanings": [
+      "An organ of the neck of mammals situated just below where the tract of the pharynx splits into the trachea and the oesophagus (or esophagus). It is involved in breath control and protection of the trachea, and, because it houses the vocal cords, sound production."
+    ]
+  },
+  {
+    "word": "inherent",
+    "phonetic": "/ɪnˈhɛɹənt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inherent-uk.mp3",
+    "meanings": ["Naturally as part or consequence of something."]
+  },
+  {
+    "word": "quartz",
+    "phonetic": "/kwɔːts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quartz-us.mp3",
+    "meanings": [
+      "The most abundant mineral on the earth's surface, of chemical composition silicon dioxide, SiO2. It occurs in a variety of forms, both crystalline and amorphous. Found in every environment."
+    ]
+  },
+  {
+    "word": "vortex",
+    "phonetic": "/ˈvɔɹtɛks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vortex-au.mp3",
+    "meanings": [
+      "A whirlwind, whirlpool, or similarly moving matter in the form of a spiral or column.",
+      "Anything that involves constant violent or chaotic activity around some centre.",
+      "Anything that inevitably draws surrounding things into its current.",
+      "A supposed collection of particles of very subtle matter, endowed with a rapid rotary motion around an axis which was also the axis of a sun or planet; part of a Cartesian theory accounting for the formation of the universe, and the movements of the bodies composing it.",
+      "Any of numerous species of small Turbellaria belonging to Vortex and allied genera."
+    ]
+  },
+  {
+    "word": "communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/communicate-us.mp3",
+    "meanings": ["To impart", "To share"]
+  },
+  {
+    "word": "jumbo",
+    "phonetic": "/ˈd͡ʒʌmbəʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jumbo-au.mp3",
+    "meanings": [
+      "An especially large or powerful person, animal, or thing.",
+      "A platform-mounted machine for drilling rock."
+    ]
+  },
+  {
+    "word": "kiosk",
+    "phonetic": "/ˈkiːˌɒsk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kiosk-au.mp3",
+    "meanings": [
+      "A small enclosed structure, often freestanding, open on one side or with a window, used as a booth to sell newspapers, cigarettes, etc.",
+      "A similar unattended stand for the automatic dispensing of tickets, etc.",
+      "A public telephone booth.",
+      "A Turkish garden pavilion."
+    ]
+  },
+  {
+    "word": "jockey",
+    "phonetic": "/ˈdʒɒki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jockey-au.mp3",
+    "meanings": [
+      "One who rides racehorses competitively.",
+      "That part of a variable resistor or potentiometer that rides over the resistance wire",
+      "An operator of some machinery or apparatus.",
+      "A dealer in horses; a horse trader.",
+      "A cheat; one given to sharp practice in trade.",
+      "A prostitute's client.",
+      "A rapist."
+    ]
+  },
+  {
+    "word": "shiv",
+    "phonetic": "/ʃɪv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shiv-au.mp3",
+    "meanings": [
+      "A knife, especially a makeshift one fashioned from something not normally used as a weapon (like a plastic spoon or a toothbrush).",
+      "A particular woody by-product of processing flax or hemp."
+    ]
+  },
+  {
+    "word": "dimension",
+    "phonetic": "/daɪˈmɛnʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dimension-us.mp3",
+    "meanings": [
+      "A single aspect of a given thing.",
+      "A measure of spatial extent in a particular direction, such as height, width or breadth, or depth.",
+      "A construct whereby objects or individuals can be distinguished.",
+      "The number of independent coordinates needed to specify uniquely the location of a point in a space; also, any of such independent coordinates.",
+      "The number of elements of any basis of a vector space.",
+      "One of the physical properties that are regarded as fundamental measures of a physical quantity, such as mass, length and time.",
+      "Any of the independent ranges of indices in a multidimensional array.",
+      "A universe or plane of existence."
+    ]
+  },
+  {
+    "word": "khaki",
+    "phonetic": "/ˈkɑː.ki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/khaki-au.mp3",
+    "meanings": [
+      "A dull, yellowish-brown colour, the colour of dust.",
+      "Khaki green, a dull green colour.",
+      "A strong cloth of wool or cotton, often used for military or other uniforms.",
+      "A soldier wearing a khaki uniform.",
+      "A British person (from the colour of the uniform of British troops, originally in the Second Boer War; compare rooinek). (In this sense the plural generally is khakies.)",
+      "Khaki clothing or uniform, commonly in the plural."
+    ]
+  },
+  {
+    "word": "yummy",
+    "phonetic": "/ˈjʌm.i/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yummy-us.mp3",
+    "meanings": ["(lighthearted) Delicious."]
+  },
+  {
+    "word": "bagpipes",
+    "phonetic": "/ˈbæɡ.pɑɪps/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bagpipes-us.mp3",
+    "meanings": [
+      "A musical wind instrument of Celtic origin, possessing a flexible bag inflated by bellows, a double-reed melody pipe and up to four drone pipes; any aerophone that produces sound using air from a reservoir to vibrate enclosed reeds."
+    ]
+  },
+  {
+    "word": "clarify",
+    "phonetic": "/ˈklæɹɪfaɪ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clarify-uk.mp3",
+    "meanings": [
+      "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter",
+      "To make clear or easily understood; to explain in order to remove doubt or obscurity",
+      "To grow or become clear or transparent; to become free from feculent impurities, as wine or other liquid under clarification.",
+      "To grow clear or bright; to clear up.",
+      "To glorify."
+    ]
+  },
+  {
+    "word": "plough",
+    "phonetic": "/plaʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plough-us.mp3",
+    "meanings": [
+      "The notional area of land able to be farmed in a year by a team of 8 oxen pulling a carruca plow, usually reckoned at 120 acres."
+    ]
+  },
+  {
+    "word": "beneficiary",
+    "phonetic": "/ˌbɛn.əˈfɪʃ.əɹ.i/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beneficiary-au.mp3",
+    "meanings": [
+      "One who benefits or receives an advantage.",
+      "One who benefits from the distribution, especially of an estate.",
+      "One who benefits from the payout of an insurance policy."
+    ]
+  },
+  {
+    "word": "blizzard",
+    "phonetic": "/ˈblɪ.zəd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blizzard-us.mp3",
+    "meanings": [
+      "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+      "A large amount of paperwork.",
+      "A large number of similar things."
+    ]
+  },
+  {
+    "word": "duration",
+    "phonetic": "/djʊˈɹeɪʃn̩/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duration-us.mp3",
+    "meanings": [
+      "An amount of time or a particular time interval.",
+      "(in the singular, not followed by \"of\") The time taken for the current situation to end, especially the current war",
+      "A measure of the sensitivity of the price of a financial asset to changes in interest rates, computed for a simple bond as a weighted average of the maturities of the interest and principal payments associated with it."
+    ]
+  },
+  {
+    "word": "equip",
+    "phonetic": "/ɪˈkwɪp/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/equip-uk.mp3",
+    "meanings": [
+      "To supply with something necessary in order to carry out a specific action or task; to provide with (e.g. weapons, provisions, munitions, rigging)",
+      "To dress up; to array; to clothe.",
+      "To prepare (someone) with a skill.",
+      "To equip oneself with (an item)."
+    ]
+  },
+  {
+    "word": "nymph",
+    "phonetic": "/ˈnɪmf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nymph-us.mp3",
+    "meanings": [
+      "(Greek, Roman) Any female nature spirit associated with water, forests, grotto, wind, etc.",
+      "A young girl, especially one who is attractive, beautiful or graceful.",
+      "The larva of certain insects.",
+      "Any of various butterflies of the family Nymphalidae."
+    ]
+  },
+  {
+    "word": "instigate",
+    "phonetic": "/ˈɪnstəɡeɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instigate-us.mp3",
+    "meanings": [
+      "To incite; to bring about by urging or encouraging",
+      "To goad or urge (a person) forward, especially to wicked actions; to provoke"
+    ]
+  },
+  {
+    "word": "woozy",
+    "phonetic": "/ˈwuːzi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/woozy-us.mp3",
+    "meanings": ["Queasy, dizzy, or disoriented", "Intoxicated by drink or drugs"]
+  },
+  {
+    "word": "brave",
+    "phonetic": "/bɹeɪv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brave-us.mp3",
+    "meanings": [
+      "A Native American warrior.",
+      "A man daring beyond discretion; a bully.",
+      "A challenge; a defiance; bravado."
+    ]
+  },
+  {
+    "word": "avenue",
+    "phonetic": "/ˈæv.əˌnjuː/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/avenue-uk.mp3",
+    "meanings": [
+      "A broad street, especially one bordered by trees.",
+      "A way or opening for entrance into a place; a passage by which a place may be reached; a way of approach or of exit.",
+      "The principal walk or approach to a house which is withdrawn from the road, especially, such approach bordered on each side by trees; any broad passageway thus bordered.",
+      "A method or means by which something may be accomplished.",
+      "(urban toponymy) A street, especially, in cities laid out in a grid pattern, one that is in a particular side of the city or that runs in a particular direction."
+    ]
+  },
+  {
+    "word": "yippee",
+    "phonetic": "/ˌjɪ.ˈpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yippee-uk.mp3",
+    "meanings": ["Used to express joy or elation."]
+  },
+  {
+    "word": "wavy",
+    "phonetic": "/ˈweɪvi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wavy-us.mp3",
+    "meanings": [
+      "Rising or swelling in waves.",
+      "Full of waves.",
+      "Moving to and fro; undulating.",
+      "Having wave-like shapes on its border or surface; waved.",
+      "(of a margin) Moving up and down relative to the surface; undulate.",
+      "Undé, in a wavy line; applied to ordinaries, or division lines.",
+      "Drunk"
+    ]
+  },
+  {
+    "word": "buffoon",
+    "phonetic": "/bəˈfuːn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buffoon-us.mp3",
+    "meanings": [
+      "One who acts in a silly or ridiculous fashion; a clown or fool.",
+      "An unintentionally ridiculous person."
+    ]
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbˌweɪ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subway-us.mp3",
+    "meanings": [
+      "An underground railway, especially for mass transit of people in urban areas.",
+      "A train that runs on such an underground railway.",
+      "A rapid transit system, regardless of the elevation of its right of way.",
+      "An underground walkway, tunnel for pedestrians (called pedestrian underpass in US).",
+      "An underground route for pipes, sewers, etc."
+    ]
+  },
+  {
+    "word": "rebound",
+    "phonetic": "/ɹiˈbaʊnd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rebound-1-uk.mp3",
+    "meanings": [
+      "The recoil of an object bouncing off another.",
+      "A return to health or well-being; a recovery.",
+      "An effort to recover from a setback.",
+      "A romantic partner with whom one begins a relationship (or the relationship one begins) for the sake of getting over a previous, recently-ended romantic relationship.",
+      "The strike of the ball after it has bounced off a defending player, the crossbar or goalpost.",
+      "An instance of catching the ball after it has hit the rim or backboard without a basket being scored, generally credited to a particular player."
+    ]
+  },
+  {
+    "word": "zipper",
+    "phonetic": "/ˈzɪpɚ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zipper-au.mp3",
+    "meanings": [
+      "A zip fastener.",
+      "A pressure-sensitive plastic closure.",
+      "Leucine zipper",
+      "A scar on a person's body.",
+      "An air patrol carried out at dawn or dusk."
+    ]
+  },
+  {
+    "word": "banjo",
+    "phonetic": "/ˈbæn.dʒəʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banjo-us.mp3",
+    "meanings": [
+      "A stringed musical instrument (chordophone), usually with a round body, a membrane-like soundboard and a fretted neck, played by plucking or strumming the strings.",
+      "Any of various similar musical instruments, such as the Tuvan doshpuluur, with a membrane-like soundboard.",
+      "An object shaped like a banjo, especially a frying pan or a shovel.",
+      "(Dagenham) A cul-de-sac with a round end."
+    ]
+  },
+  {
+    "word": "abyss",
+    "phonetic": "/əˈbɪs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abyss-us.mp3",
+    "meanings": [
+      "Hell; the bottomless pit; primeval chaos; a confined subterranean ocean.",
+      "(frequently figurative) A bottomless or unfathomed depth, gulf, or chasm; hence, any deep, immeasurable; any void space.",
+      "Anything infinite, immeasurable, or profound.",
+      "Moral depravity; vast intellectual or moral depth.",
+      "An impending catastrophic happening.",
+      "The center of an escutcheon.",
+      "The abyssal zone.",
+      "A difference, especially a large difference, between groups."
+    ]
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "/ˈɒksɪdʒən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oxygen-us.mp3",
+    "meanings": [
+      "The chemical element (symbol O) with an atomic number of 8 and relative atomic mass of 15.9994. It is a colorless and odorless gas.",
+      "Molecular oxygen (O2), a colorless, odorless gas at room temperature, also called dioxygen.",
+      "A mixture of oxygen and other gases, administered to a patient to help them breathe.",
+      "An atom of this element."
+    ]
+  },
+  {
+    "word": "context",
+    "phonetic": "/ˈkɒntɛkst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/context-uk.mp3",
+    "meanings": [
+      "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence.",
+      "The text in which a word or passage appears and which helps ascertain its meaning.",
+      "The surroundings and environment in which an artifact is found and which may provide important clues about the artifact's function and/or cultural meaning.",
+      "The trama or flesh of a mushroom.",
+      "For a formula: a finite set of variables, which set contains all the free variables in the given formula."
+    ]
+  },
+  {
+    "word": "queue",
+    "phonetic": "/kjuː/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/queue-au.mp3",
+    "meanings": [
+      "An animal's tail.",
+      "A men's hairstyle whose primary attribute is a braid or ponytail at the back of the head, such as that worn by men in Imperial China.",
+      "A line of people, vehicles or other objects, in which one at the front end is dealt with first, the one behind is dealt with next, and so on, and which newcomers join at the opposite end (the back).",
+      "A waiting list or other means of organizing people or objects into a first-come-first-served order.",
+      "A data structure in which objects are added to one end, called the tail, and removed from the other, called the head (- a FIFO queue). The term can also refer to a LIFO queue or stack where these ends coincide."
+    ]
+  },
+  {
+    "word": "hyphen",
+    "phonetic": "/ˈhaɪ.fən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hyphen-us.mp3",
+    "meanings": [
+      "The symbol \"‐\", typically used to join two or more words to form a compound term, or to indicate that a word has been split at the end of a line.",
+      "Something that links two more consequential things.",
+      "An enclosed walkway or passage that connects two buildings.",
+      "Someone who belongs to a marginalized subgroup, and can therefore described by a hyphenated term, such as \"German-American\", \"female-academic\", etc."
+    ]
+  },
+  {
+    "word": "eccentric",
+    "phonetic": "/ɪkˈsɛntɹɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eccentric-au.mp3",
+    "meanings": [
+      "One who does not behave like others.",
+      "A kook; a person of bizarre habits or beliefs.",
+      "A circle not having the same centre as another.",
+      "A disk or wheel with its axis off centre, giving a reciprocating motion."
+    ]
+  },
+  {
+    "word": "stronghold",
+    "phonetic": "/ˈstɹɒŋhəʊld/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stronghold-au.mp3",
+    "meanings": [
+      "A place built to withstand attack; a fortress.",
+      "A place of domination by, or refuge or survival of, a particular group or idea."
+    ]
+  },
+  {
+    "word": "destruction",
+    "phonetic": "/ˌdɪsˈtɹʌkʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/destruction-us.mp3",
+    "meanings": ["The act of destroying.", "The results of a destructive event."]
+  },
+  {
+    "word": "quorum",
+    "phonetic": "/ˈkwɔː.ɹəm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quorum-us.mp3",
+    "meanings": [
+      "The minimum number of members required for a group to officially conduct business and to cast votes, often but not necessarily a majority or supermajority.",
+      "A selected body of persons."
+    ]
+  },
+  {
+    "word": "association",
+    "phonetic": "/əˌsəʊsiˈeɪʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/association-us.mp3",
+    "meanings": [
+      "The act of associating.",
+      "The state of being associated; a connection to or an affiliation with something.",
+      "Any relationship between two measured quantities that renders them statistically dependent (but not necessarily causal or a correlation).",
+      "A group of persons associated for a common purpose; an organization; society.",
+      "Relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf."
+    ]
+  },
+  {
+    "word": "convenience",
+    "phonetic": "/kənˈviːnɪəns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convenience-us.mp3",
+    "meanings": [
+      "The quality of being convenient.",
+      "Any object that makes life more convenient; a helpful item.",
+      "A convenient time.",
+      "Clipping of public convenience: a public lavatory."
+    ]
+  },
+  {
+    "word": "razzmatazz",
+    "phonetic": "/ˈɹæz.mə.tæz/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/razzmatazz-au.mp3",
+    "meanings": [
+      "Ambiguous or meaningless language.",
+      "Empty and tiresome speculation.",
+      "Something presenting itself in a fanciful and showy, often unrealistic manner, especially when intended to impress and confuse.",
+      "A long and imposing series of mindless but necessary tasks; drudgery."
+    ]
+  },
+  {
+    "word": "wyvern",
+    "phonetic": "/ˈwaɪvə(ɹ)n/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wyvern-uk.mp3",
+    "meanings": ["A draconian creature possessing wings, only two legs and usually a barbed tail."]
+  },
+  {
+    "word": "reproach",
+    "phonetic": "/ɹɪˈpɹəʊtʃ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproach-au.mp3",
+    "meanings": ["A mild rebuke, or an implied criticism.", "Disgrace or shame.", "An object of scorn."]
+  },
+  {
+    "word": "iatrogenic",
+    "phonetic": "/aɪˌætɹəˈdʒɛnɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/iatrogenic-uk.mp3",
+    "meanings": [
+      "(of a disease, injury, or other adverse outcome) Induced by the words or actions of the physician or by medical treatment or diagnostic procedure."
+    ]
+  },
+  {
+    "word": "category",
+    "phonetic": "/ˈkætəˌɡɔɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/category-us.mp3",
+    "meanings": [
+      "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+      "A collection of objects, together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative."
+    ]
+  },
+  {
+    "word": "matrix",
+    "phonetic": "/ˈmeɪtɹɪks/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/matrix-us.mp3",
+    "meanings": [
+      "The womb.",
+      "The material or tissue in which more specialized structures are embedded.",
+      "An extracellular matrix, the material or tissue between the cells of animals or plants.",
+      "Part of the mitochondrion.",
+      "The medium in which bacteria are cultured.",
+      "A rectangular arrangement of numbers or terms having various uses such as transforming coordinates in geometry, solving systems of linear equations in linear algebra and representing graphs in graph theory.",
+      "A two-dimensional array.",
+      "A grid-like arrangement of electronic components, especially one intended for information coding, decoding or storage.",
+      "A table of data.",
+      "A geological matrix.",
+      "(archaeology and paleontology) The sediment surrounding and including the artifacts, features, and other materials at a site.",
+      "The environment from which a given sample is taken.",
+      "In hot metal typesetting, a mold for casting a letter.",
+      "In printmaking, the plate or block used, with ink, to hold the image that makes up the print.",
+      "The cavity or mold in which anything is formed.",
+      "(dyeing) The five simple colours (black, white, blue, red, and yellow) from which all the others are formed.",
+      "A binding agent of composite materials, e.g. resin in fibreglass."
+    ]
+  },
+  {
+    "word": "lucky",
+    "phonetic": "/ˈlʌki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lucky-us.mp3",
+    "meanings": [
+      "(of people) Favoured by luck; fortunate; having good success or good fortune",
+      "Producing, or resulting in, good fortune"
+    ]
+  },
+  {
+    "word": "quixotic",
+    "phonetic": "/kwɪkˈsɒtɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quixotic-us.mp3",
+    "meanings": [
+      "Possessing or acting with the desire to do noble and romantic deeds, without thought of realism and practicality; exceedingly idealistic.",
+      "Impulsive.",
+      "Like Don Quixote; romantic to extravagance; absurdly chivalric; apt to be deluded."
+    ]
+  },
+  {
+    "word": "obligation",
+    "phonetic": "/ɑb.ləˈɡeɪ.ʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obligation-us.mp3",
+    "meanings": [
+      "The act of binding oneself by a social, legal, or moral tie to someone.",
+      "A social, legal, or moral requirement, duty, contract, or promise that compels someone to follow or avoid a particular course of action.",
+      "A course of action imposed by society, law, or conscience by which someone is bound or restricted.",
+      "A legal agreement stipulating a specified action or forbearance by a party to the agreement; the document containing such agreement."
+    ]
+  },
+  {
+    "word": "cheat",
+    "phonetic": "/tʃiːt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cheat-us.mp3",
+    "meanings": [
+      "To violate rules in order to gain advantage from a situation.",
+      "To be unfaithful to one's spouse or partner.",
+      "To manage to avoid something even though it seemed unlikely.",
+      "To deceive; to fool; to trick."
+    ]
+  },
+  {
+    "word": "luxury",
+    "phonetic": "/ˈlʌk.ʃə.ɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luxury-us.mp3",
+    "meanings": [
+      "Very wealthy and comfortable surroundings.",
+      "Something desirable but expensive.",
+      "Something that is pleasant but not necessary in life."
+    ]
+  },
+  {
+    "word": "jelly",
+    "phonetic": "/ˈd͡ʒɛl.i/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jelly-au.mp3",
+    "meanings": ["An explosive mixture of nitroglycerine and nitrate absorbed onto a base of wood pulp."]
+  },
+  {
+    "word": "disavow",
+    "phonetic": "/dɪsəˈvaʊ/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disavow-au.mp3",
+    "meanings": [
+      "To strongly and solemnly refuse to own or acknowledge; to deny responsibility for, approbation of, and the like.",
+      "To deny; to show the contrary of; to deny legitimacy or achievement of any kind."
+    ]
+  },
+  {
+    "word": "embezzle",
+    "phonetic": "/əmˈbɛzəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embezzle-us.mp3",
+    "meanings": [
+      "To steal or misappropriate money that one has been trusted with, especially to steal money from the organisation for which one works."
+    ]
+  },
+  {
+    "word": "munificent",
+    "phonetic": "/mjuˈnɪfɨsn̩t/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/munificent-uk.mp3",
+    "meanings": [
+      "(of a person or group) Very liberal in giving or bestowing.",
+      "(of a gift, donation, etc.) Very generous; lavish."
+    ]
+  },
+  {
+    "word": "abruptly",
+    "phonetic": "/ə.ˈbɹʌpt.li/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abruptly-us.mp3",
+    "meanings": ["In an abrupt manner; without giving notice, or without the usual forms; suddenly; precipitously."]
+  },
+  {
+    "word": "xylophone",
+    "phonetic": "/ˈzaɪləˌfoʊn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/xylophone-us.mp3",
+    "meanings": [
+      "Any musical instrument (percussion idiophone) made of wooden slats graduated so as to make the sounds of the scale when struck with a small drumstick-like mallet; the standard Western concert xylophone or one of its derivatives."
+    ]
+  },
+  {
+    "word": "advocate",
+    "phonetic": "/ˈæd.və.keɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/advocate-uk.mp3",
+    "meanings": [
+      "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+      "Anyone who argues the case of another; an intercessor.",
+      "A person who speaks in support of something.",
+      "A person who supports others to make their voices heard, or ideally for them to speak up for themselves."
+    ]
+  },
+  {
+    "word": "injury",
+    "phonetic": "/ˈɪn.dʒə.ɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/injury-us.mp3",
+    "meanings": [
+      "Damage to the body of a human or animal.",
+      "The violation of a person's reputation, rights, property, or interests.",
+      "Injustice."
+    ]
+  },
+  {
+    "word": "puppy",
+    "phonetic": "/ˈpʌpi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/puppy-us.mp3",
+    "meanings": [
+      "A young dog, especially before sexual maturity (12-18 months)",
+      "A young rat.",
+      "A young seal.",
+      "(usually in the plural) A woman’s breast.",
+      "A (generic) thing; particularly something that is a nuisance; a sucker.",
+      "A conceited and impertinent person, especially a young man."
+    ]
+  },
+  {
+    "word": "commercial",
+    "phonetic": "/kəˈmɜːʃəl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/commercial-us.mp3",
+    "meanings": [
+      "An advertisement in a common media format, usually radio or television.",
+      "A commercial trader, as opposed to an individual speculator."
+    ]
+  },
+  {
+    "word": "jaywalk",
+    "phonetic": "/ˈdʒeɪ.wɔːk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jaywalk-au.mp3",
+    "meanings": [
+      "To behave as a jaywalker; to violate pedestrian traffic regulations by crossing a street away from a designated crossing or to walk in the part of the street intended for vehicles rather than on the sidewalk."
+    ]
+  },
+  {
+    "word": "lymph",
+    "phonetic": "/lɪmf/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lymph-us.mp3",
+    "meanings": [
+      "(poetical) Pure water.",
+      "A colourless, watery bodily fluid, carried by the lymphatic system, that consists mainly of white blood cells.",
+      "Discharge from a sore, inflammation etc."
+    ]
+  },
+  {
+    "word": "ivy",
+    "phonetic": "/ˈaɪvi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ivy-us.mp3",
+    "meanings": [
+      "Any of several woody, climbing or trailing evergreen plants of the genus Hedera.",
+      "Any similar plant of any genus."
+    ]
+  },
+  {
+    "word": "unknown",
+    "phonetic": "/ʌnˈnəʊn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unknown-us.mp3",
+    "meanings": ["To undo the process of knowing, to lose knowledge of something."]
+  },
+  {
+    "word": "available",
+    "phonetic": "/əˈveɪləb(ə)l/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/available-us.mp3",
+    "meanings": [
+      "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+      "Readily obtainable.",
+      "Valid.",
+      "Having sufficient power, force, or efficacy to achieve the purpose; availing, effective.",
+      "Free to meet someone, speak on the telephone, enter a romantic relationship or the like."
+    ]
+  },
+  {
+    "word": "proprietary",
+    "phonetic": "/pɹəˈpɹɑɪətɛɹi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proprietary-us.mp3",
+    "meanings": [
+      "A proprietor or owner.",
+      "A body of proprietors, taken collectively.",
+      "The rights of a proprietor.",
+      "A monk who had reserved goods and belongings to himself, notwithstanding his renunciation of all at the time of profession."
+    ]
+  },
+  {
+    "word": "component",
+    "phonetic": "/kʌmˈpoʊnənt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/component-us.mp3",
+    "meanings": [
+      "A smaller, self-contained part of a larger entity. Often refers to a manufactured object that is part of a larger device."
+    ]
+  },
+  {
+    "word": "psyche",
+    "phonetic": "/ˈsaɪ.ki/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/psyche-1-uk.mp3",
+    "meanings": [
+      "The human soul, mind, or spirit.",
+      "(chiefly psychology) The human mind as the central force in thought, emotion, and behavior of an individual.",
+      "A small white butterfly, Leptosia nina, family Pieridae, of Asia and Australasia."
+    ]
+  },
+  {
+    "word": "blitz",
+    "phonetic": "/blɪts/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blitz-uk.mp3",
+    "meanings": [
+      "A sudden attack, especially an air raid; usually with reference to the Blitz.",
+      "A swift and overwhelming attack or effort.",
+      "A play in which additional defenders beyond the defensive linemen rush the passer.",
+      "Blitz chess, a form of chess with a short time limit for moves."
+    ]
+  },
+  {
+    "word": "phlegm",
+    "phonetic": "/flɛm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phlegm-uk.mp3",
+    "meanings": [
+      "One of the four humors making up the body in ancient and mediaeval medicine; said to be cold and moist, and often identified with mucus.",
+      "Viscid mucus produced by the body, later especially mucus expelled from the bronchial passages by coughing.",
+      "A watery distillation, especially one obtained from plant matter; an aqueous solution.",
+      "Calmness of temperament, composure; also seen negatively, sluggishness, indifference."
+    ]
+  },
+  {
+    "word": "fuchsia",
+    "phonetic": "/ˈfjuːʃə/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fuchsia-us.mp3",
+    "meanings": [
+      "A popular garden plant, of the genus Fuchsia, of the Onagraceae family, shrubs with red, pink or purple flowers.",
+      "A purplish-red colour, the color of fuchsin, an aniline dye."
+    ]
+  },
+  {
+    "word": "transgress",
+    "phonetic": "/tɹænzˈɡɹɛs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/transgress-uk.mp3",
+    "meanings": [
+      "To exceed or overstep some limit or boundary.",
+      "To act in violation of some law.",
+      "(construed with against) To commit an offense; to sin.",
+      "(of the sea) To spread over land along a shoreline; to inundate."
+    ]
+  },
+  {
+    "word": "strengths",
+    "phonetic": "/stɹɛŋθs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strengths-us.mp3",
+    "meanings": [
+      "The quality or degree of being strong.",
+      "The intensity of a force or power; potency.",
+      "The strongest part of something; that on which confidence or reliance is based.",
+      "A positive attribute.",
+      "An armed force, a body of troops.",
+      "A strong place; a stronghold."
+    ]
+  },
+  {
+    "word": "omission",
+    "phonetic": "/oʊˈmɪʃən/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/omission-ca.mp3",
+    "meanings": [
+      "The act of omitting.",
+      "The act of neglecting to perform an action one has an obligation to do.",
+      "Something deleted or left out.",
+      "Something not done or neglected.",
+      "(grammar) The shortening of a word or phrase, using an apostrophe ( ' ) to replace the missing letters, often used to approximate the sound of speech or a specific dialect."
+    ]
+  },
+  {
+    "word": "terrestrial",
+    "phonetic": "/təˈɹɛstɹi.əl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/terrestrial-uk.mp3",
+    "meanings": ["An inhabitant of the planet Earth."]
+  },
+  {
+    "word": "cobweb",
+    "phonetic": "/ˈkɒbwɛb/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cobweb-us.mp3",
+    "meanings": [
+      "A spiderweb, or the remains of one, especially an asymmetrical one that is woven with an irregular pattern of threads.",
+      "One of its filaments; gossamer",
+      "Something thin and unsubstantial, or flimsy and worthless; valueless remainder.",
+      "An intricate plot to catch the unwary",
+      "A web page that either has not been updated for a long time, or that is rarely visited",
+      "The European spotted flycatcher, Muscicapa striata.",
+      "(usually in the plural) fuzzy inexact memories"
+    ]
+  },
+  {
+    "word": "haiku",
+    "phonetic": "/ˈhaɪ.kuː/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/haiku-us.mp3",
+    "meanings": [
+      "A Japanese poem in three lines, the first and last consisting of five morae, and the second consisting of seven morae, usually with an emphasis on the season or a naturalistic theme.",
+      "A three-line poem in any language, with five syllables in the first and last lines and seven syllables in the second, usually with an emphasis on the season or a naturalistic theme."
+    ]
+  },
+  {
+    "word": "buxom",
+    "phonetic": "/ˈbʌksəm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buxom-au.mp3",
+    "meanings": [
+      "Pliant, obedient, tractable (to) (i.e. easily moved or bent, morally).",
+      "Submissive, humble, meek (as subsense of 4).",
+      "Gracious, indulgent, favourable; obliging, amiable, courteous, affable, kindly (as subsense of 1).",
+      "With infinitive: Easily moved, prone, ready (as subsense of 1).",
+      "Flexible, pliant (arising from sense 1).",
+      "Blithe, gladsome, bright, lively, gay (attested after 1).",
+      "(of a man or woman) Cheerful, happy (possibly as subsense of 6).",
+      "(chiefly of women) Full of health, vigour, and good temper; well-favoured, plump and comely, 'jolly', comfortable-looking (in person). (arising from sense 6).",
+      "(of a woman) Having a full, voluptuous figure, especially possessing large breasts (as subsense of 8)."
+    ]
+  },
+  {
+    "word": "juicy",
+    "phonetic": "/ˈdʒusi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juicy-us.mp3",
+    "meanings": [
+      "Having lots of juice.",
+      "(of a story, etc.) Exciting; titillating.",
+      "(of a blow, strike, etc.) Strong, painful.",
+      "Voluptuous, curvy, thick."
+    ]
+  },
+  {
+    "word": "assign",
+    "phonetic": "/əˈsaɪn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assign-us.mp3",
+    "meanings": [
+      "An assignee.",
+      "A thing relating or belonging to something else; an appurtenance.",
+      "An assignment or appointment.",
+      "A design or purpose."
+    ]
+  }
 ]
