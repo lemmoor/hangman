@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import wordType from '../types/word';
 
@@ -11,10 +11,17 @@ interface GameOverProps {
 export default function GameOver({ isWin, detailedWord, answerSequence }: GameOverProps) {
   const [buttonText, setButtonText] = useState('Share');
 
+  useEffect(() => {
+    //record to local storage
+    let date = new Date().toDateString();
+    localStorage.setItem('hangman', JSON.stringify({ date, isWin, detailedWord, answerSequence }));
+  });
+
   const handleShare = () => {
     const today = new Date();
+    let moves = isWin ? Array.from(answerSequence).length : 'X';
     navigator.clipboard
-      .writeText(`Hangman ${today.toDateString()} X/${detailedWord.word.length + 5} \n${answerSequence}`)
+      .writeText(`Hangman ${today.toDateString()} ${moves}/${detailedWord.word.length + 5} \n${answerSequence}`)
       .then(() => {
         setButtonText('Copied to clipboard!');
       })
@@ -30,7 +37,8 @@ export default function GameOver({ isWin, detailedWord, answerSequence }: GameOv
 
   return (
     <div className='absolute top-0 bg-slate-100 w-full min-h-screen p-8 md:p-16 text-xl text-center'>
-      <p className='text-4xl pb-8'>Game over</p>
+      <p className='text-4xl mb-2'>{isWin ? 'You Won!' : 'Game over'}</p>
+      <p className='text-sm mb-8'>Come back tomorrow for another game</p>
       <p className='font-bold text-2xl my-2'>
         {detailedWord.word}{' '}
         <span className='cursor-pointer' onClick={() => new Audio(detailedWord.audio).play()}>
