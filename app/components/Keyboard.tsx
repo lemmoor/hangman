@@ -26,7 +26,9 @@ export default function Keyboard({ setPreviousLetters, previousLetters, word }: 
                             ${!previousLetters.includes(letter) && 'bg-gray-600'}
                             rounded-md p-3 m-1 text-white cursor-pointer focus:bg-gray-500 transition-colors`}
                 onClick={() => {
-                  setPreviousLetters((prev: string) => (prev += letter));
+                  if (!previousLetters.includes(letter)) {
+                    setPreviousLetters((prev: string) => (prev += letter));
+                  }
                 }}
               >
                 {letter}
