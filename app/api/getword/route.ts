@@ -4,6 +4,8 @@ import wordType from '@/app/types/word';
 
 const wordlist = wordlistJson as wordType[];
 
+export const revalidate = 0;
+
 export async function GET() {
   const today = new Date();
   const start = new Date(today.getFullYear(), 0, 0);
